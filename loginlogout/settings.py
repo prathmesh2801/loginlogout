@@ -25,6 +25,7 @@ SECRET_KEY = 'django-insecure-3^#g4+fkyk8rcgokhpam)(180&z54o3vun8hsx$bwpg6doel@+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+<<<<<<< HEAD
 ALLOWED_HOSTS = ['127.0.0.1','139.59.77.93','hola9.in']
 
 
@@ -32,6 +33,9 @@ CSRF_TRUSTED_ORIGINS = [
 	'https://hola9.in',
 	'http://hola9.in:8000',
 ]
+=======
+ALLOWED_HOSTS = []
+>>>>>>> b0373d25bb767dadd04c84dda45f594e02c5d38e
 
 
 # Application definition
