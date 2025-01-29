@@ -1,0 +1,1124 @@
+Watching for file changes with StatReloader
+[28/Jan/2025 09:33:27] "GET /admin/ HTTP/1.1" 302 0
+[28/Jan/2025 09:33:27] "GET /admin/ HTTP/1.1" 302 0
+[28/Jan/2025 09:33:27] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4160
+[28/Jan/2025 09:33:27] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4160
+[28/Jan/2025 09:33:27] "GET /static/admin/css/base.css HTTP/1.1" 200 22092
+[28/Jan/2025 09:33:27] "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2804
+[28/Jan/2025 09:33:27] "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+[28/Jan/2025 09:33:27] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+[28/Jan/2025 09:33:27] "GET /static/admin/css/login.css HTTP/1.1" 200 951
+[28/Jan/2025 09:33:27] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17972
+[28/Jan/2025 09:33:27] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+[28/Jan/2025 09:33:34] "GET /admin/ HTTP/1.1" 302 0
+[28/Jan/2025 09:33:34] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4160
+Not Found: /
+[28/Jan/2025 09:33:35] "GET / HTTP/1.1" 404 2303
+Not Found: /
+[28/Jan/2025 09:33:36] "GET / HTTP/1.1" 404 2303
+Not Found: /
+[28/Jan/2025 09:33:52] "GET / HTTP/1.1" 404 2303
+Not Found: /
+[28/Jan/2025 09:35:30] "GET / HTTP/1.1" 404 2303
+Not Found: /vId9
+[28/Jan/2025 09:37:14] "GET /vId9 HTTP/1.1" 404 2341
+Not Found: /4bWp
+[28/Jan/2025 09:37:15] "GET /4bWp HTTP/1.1" 404 2341
+Not Found: /aab8
+[28/Jan/2025 09:37:15] "GET /aab8 HTTP/1.1" 404 2341
+Not Found: /jquery-3.3.1.slim.min.js
+[28/Jan/2025 09:37:17] "GET /jquery-3.3.1.slim.min.js HTTP/1.1" 404 2401
+Not Found: /aab9
+[28/Jan/2025 09:37:19] "GET /aab9 HTTP/1.1" 404 2341
+Not Found: /jquery-3.3.2.slim.min.js
+[28/Jan/2025 09:37:20] "GET /jquery-3.3.2.slim.min.js HTTP/1.1" 404 2401
+Not Found: /
+[28/Jan/2025 09:43:35] "GET / HTTP/1.1" 404 2303
+Not Found: /
+[28/Jan/2025 09:43:35] "GET / HTTP/1.1" 404 2303
+Not Found: /.git-credentials
+[28/Jan/2025 09:48:52] "GET /.git-credentials HTTP/1.1" 404 2378
+Not Found: /.svn/entries
+[28/Jan/2025 09:48:53] "GET /.svn/entries HTTP/1.1" 404 2366
+Not Found: /.git/config
+[28/Jan/2025 09:48:53] "GET /.git/config HTTP/1.1" 404 2363
+Not Found: /events../.git/config
+[28/Jan/2025 09:49:00] "GET /events../.git/config HTTP/1.1" 404 2390
+Not Found: /assets../.git/config
+[28/Jan/2025 09:49:00] "GET /assets../.git/config HTTP/1.1" 404 2390
+Not Found: /static../.git/config
+[28/Jan/2025 09:49:00] "GET /static../.git/config HTTP/1.1" 404 2390
+Not Found: /media../.git/config
+Not Found: /js../.git/config
+[28/Jan/2025 09:49:00] "GET /js../.git/config HTTP/1.1" 404 2378
+[28/Jan/2025 09:49:00] "GET /media../.git/config HTTP/1.1" 404 2387
+Not Found: /css../.git/config
+[28/Jan/2025 09:49:00] "GET /css../.git/config HTTP/1.1" 404 2381
+Not Found: /lib../.git/config
+[28/Jan/2025 09:49:00] "GET /lib../.git/config HTTP/1.1" 404 2381
+Not Found: /img../.git/config
+[28/Jan/2025 09:49:00] "GET /img../.git/config HTTP/1.1" 404 2381
+Not Found: /content../.git/config
+[28/Jan/2025 09:49:00] "GET /content../.git/config HTTP/1.1" 404 2393
+Not Found: /images../.git/config
+[28/Jan/2025 09:49:00] "GET /images../.git/config HTTP/1.1" 404 2390
+Not Found: /oam/pages/login.jsp
+[28/Jan/2025 09:51:03] "GET /oam/pages/login.jsp HTTP/1.1" 404 2387
+Not Found: /
+[28/Jan/2025 09:51:03] "GET / HTTP/1.1" 404 2312
+Not Found: /.git-credentials
+[28/Jan/2025 09:58:20] "GET /.git-credentials HTTP/1.1" 404 2373
+Not Found: /.svn/entries
+[28/Jan/2025 09:58:29] "GET /.svn/entries HTTP/1.1" 404 2361
+Not Found: /.git/config
+[28/Jan/2025 09:58:29] "GET /.git/config HTTP/1.1" 404 2358
+Not Found: /oam/pages/login.jsp
+[28/Jan/2025 10:04:20] "GET /oam/pages/login.jsp HTTP/1.1" 404 2382
+Not Found: /
+[28/Jan/2025 10:04:20] "GET / HTTP/1.1" 404 2307
+[28/Jan/2025 10:12:05] "GET /admin/ HTTP/1.1" 302 0
+[28/Jan/2025 10:12:05] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4160
+[28/Jan/2025 10:12:06] "GET /static/admin/css/base.css HTTP/1.1" 304 0
+[28/Jan/2025 10:12:06] "GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+[28/Jan/2025 10:12:06] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[28/Jan/2025 10:12:06] "GET /static/admin/js/theme.js HTTP/1.1" 304 0
+[28/Jan/2025 10:12:06] "GET /static/admin/css/login.css HTTP/1.1" 304 0
+[28/Jan/2025 10:12:06] "GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+[28/Jan/2025 10:12:06] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+Not Found: /
+[28/Jan/2025 10:12:08] "GET / HTTP/1.1" 404 2303
+Not Found: /
+[28/Jan/2025 10:17:00] "GET / HTTP/1.1" 404 2307
+Not Found: /favicon.ico
+[28/Jan/2025 10:25:48] "GET /favicon.ico HTTP/1.1" 404 2358
+Not Found: /version
+[28/Jan/2025 10:26:37] "GET /version HTTP/1.1" 404 2346
+Not Found: /
+[28/Jan/2025 10:27:00] "GET / HTTP/1.1" 404 2307
+Not Found: /geoserver/web/
+[28/Jan/2025 10:31:28] "GET /geoserver/web/ HTTP/1.1" 404 2367
+Not Found: /
+[28/Jan/2025 10:48:46] "GET / HTTP/1.1" 404 2307
+Not Found: /hello.world
+[28/Jan/2025 11:05:44] "POST /hello.world?%ADd+allow_url_include%3d1+%ADd+auto_prepend_file%3dphp://input HTTP/1.1" 404 2427
+Not Found: /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:45] "GET /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2479
+Not Found: /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:45] "GET /vendor/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 2467
+Not Found: /vendor/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:45] "GET /vendor/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2455
+Not Found: /vendor/phpunit/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:45] "GET /vendor/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 2443
+Not Found: /vendor/phpunit/phpunit/LICENSE/eval-stdin.php
+[28/Jan/2025 11:05:45] "GET /vendor/phpunit/phpunit/LICENSE/eval-stdin.php HTTP/1.1" 404 2464
+Not Found: /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:45] "GET /vendor/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2500
+Not Found: /phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:45] "GET /phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2458
+Not Found: /phpunit/phpunit/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:45] "GET /phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 2446
+Not Found: /phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:45] "GET /phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2434
+Not Found: /phpunit/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:45] "GET /phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 2422
+Not Found: /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:45] "GET /lib/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2470
+Not Found: /lib/phpunit/phpunit/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:46] "GET /lib/phpunit/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 2458
+Not Found: /lib/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:46] "GET /lib/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2446
+Not Found: /lib/phpunit/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:46] "GET /lib/phpunit/Util/PHP/eval-stdin.php HTTP/1.1" 404 2434
+Not Found: /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:46] "GET /lib/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2491
+Not Found: /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:46] "GET /laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2503
+Not Found: /www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:46] "GET /www/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2491
+Not Found: /ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:46] "GET /ws/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2488
+Not Found: /yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:46] "GET /yii/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2491
+Not Found: /zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:46] "GET /zend/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2494
+Not Found: /ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:46] "GET /ws/ec/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2497
+Not Found: /V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:46] "GET /V2/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2488
+Not Found: /tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:46] "GET /tests/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2497
+Not Found: /test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:46] "GET /test/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2494
+Not Found: /testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:46] "GET /testing/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2503
+Not Found: /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:46] "GET /api/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2491
+Not Found: /demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:47] "GET /demo/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2494
+Not Found: /cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:47] "GET /cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2491
+Not Found: /crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:47] "GET /crm/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2491
+[28/Jan/2025 11:05:47] "GET /admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 302 0
+Not Found: /backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:47] "GET /backup/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2500
+Not Found: /blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:47] "GET /blog/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2494
+Not Found: /workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:47] "GET /workspace/drupal/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2530
+Not Found: /panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:47] "GET /panel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2497
+Not Found: /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:47] "GET /public/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2500
+Not Found: /apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:47] "GET /apps/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 2494
+Not Found: /app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+[28/Jan/2025 11:05:47] "GET /app/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php HTTP/1.1" 404 3123
+Not Found: /index.php
+[28/Jan/2025 11:05:47] "GET /index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.1" 404 2465
+Not Found: /public/index.php
+[28/Jan/2025 11:05:47] "GET /public/index.php?s=/index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=Hello HTTP/1.1" 404 2486
+Not Found: /index.php
+[28/Jan/2025 11:05:47] "GET /index.php?lang=../../../../../../../../usr/local/lib/php/pearcmd&+config-create+/&/<?echo(md5("hi"));?>+/tmp/index1.php HTTP/1.1" 404 2482
+Not Found: /index.php
+[28/Jan/2025 11:05:47] "GET /index.php?lang=../../../../../../../../tmp/index1 HTTP/1.1" 404 2396
+Not Found: /containers/json
+[28/Jan/2025 11:05:48] "GET /containers/json HTTP/1.1" 404 2374
+Not Found: /
+[28/Jan/2025 11:11:43] "GET / HTTP/1.1" 404 2311
+Not Found: /
+[28/Jan/2025 11:14:09] "GET / HTTP/1.1" 404 2307
+Not Found: /favicon.ico
+[28/Jan/2025 11:14:14] "GET /favicon.ico HTTP/1.1" 404 2358
+Not Found: /robots.txt
+[28/Jan/2025 11:14:15] "GET /robots.txt HTTP/1.1" 404 2355
+Not Found: /sitemap.xml
+[28/Jan/2025 11:14:16] "GET /sitemap.xml HTTP/1.1" 404 2358
+Not Found: /api/session/properties
+[28/Jan/2025 11:36:46] "GET /api/session/properties HTTP/1.1" 404 2391
+Not Found: /lib../.git/config
+[28/Jan/2025 11:44:53] "GET /lib../.git/config HTTP/1.1" 404 2376
+Not Found: /js../.git/config
+[28/Jan/2025 11:45:04] "GET /js../.git/config HTTP/1.1" 404 2373
+Not Found: /css../.git/config
+[28/Jan/2025 11:45:04] "GET /css../.git/config HTTP/1.1" 404 2376
+Not Found: /events../.git/config
+Not Found: /assets../.git/config
+Not Found: /img../.git/config
+[28/Jan/2025 11:45:04] "GET /events../.git/config HTTP/1.1" 404 2385
+[28/Jan/2025 11:45:04] "GET /img../.git/config HTTP/1.1" 404 2376
+[28/Jan/2025 11:45:04] "GET /assets../.git/config HTTP/1.1" 404 2385
+Not Found: /images../.git/config
+Not Found: /content../.git/config
+[28/Jan/2025 11:45:04] "GET /content../.git/config HTTP/1.1" 404 2388
+[28/Jan/2025 11:45:04] "GET /images../.git/config HTTP/1.1" 404 2385
+Not Found: /media../.git/config
+[28/Jan/2025 11:45:04] "GET /media../.git/config HTTP/1.1" 404 2382
+Not Found: /static../.git/config
+[28/Jan/2025 11:45:04] "GET /static../.git/config HTTP/1.1" 404 2385
+Not Found: /.git/config
+[28/Jan/2025 11:49:48] "GET /.git/config HTTP/1.1" 404 2358
+Not Found: /
+[28/Jan/2025 12:05:01] "GET / HTTP/1.1" 404 2307
+[28/Jan/2025 12:05:57] code 400, message Bad request version ('À\x14À')
+[28/Jan/2025 12:05:57] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /.env
+[28/Jan/2025 12:24:21] "GET /.env HTTP/1.1" 404 2337
+Not Found: /.env
+[28/Jan/2025 12:43:05] "GET /.env HTTP/1.1" 404 2337
+Not Found: /.env
+[28/Jan/2025 12:46:46] "GET /.env HTTP/1.1" 404 2337
+Not Found: /
+[28/Jan/2025 12:59:38] "GET / HTTP/1.1" 404 2307
+Not Found: /.git/config
+[28/Jan/2025 13:05:07] "GET /.git/config HTTP/1.1" 404 2358
+Not Found: /.env
+[28/Jan/2025 13:56:06] "GET /.env HTTP/1.1" 404 2333
+Not Found: /.env
+[28/Jan/2025 14:03:50] "GET /.env HTTP/1.1" 404 2333
+Not Found: /
+[28/Jan/2025 14:03:51] "POST / HTTP/1.1" 404 2304
+Not Found: /sendgrid/.env
+[28/Jan/2025 14:03:51] "GET /sendgrid/.env HTTP/1.1" 404 2360
+Not Found: /
+[28/Jan/2025 14:03:52] "POST / HTTP/1.1" 404 2304
+Not Found: /
+[28/Jan/2025 14:11:00] "GET / HTTP/1.1" 404 2312
+Not Found: /favicon.ico
+[28/Jan/2025 14:11:14] "GET /favicon.ico HTTP/1.1" 404 2363
+Invalid HTTP_HOST header: 'api.ipify.org'. You may need to add 'api.ipify.org' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'api.ipify.org'. You may need to add 'api.ipify.org' to ALLOWED_HOSTS.
+Bad Request: /http:/api.ipify.org/
+[28/Jan/2025 14:11:18] "GET http://api.ipify.org/?format=json HTTP/1.1" 400 63697
+Invalid HTTP_HOST header: 'www.shadowserver.org'. You may need to add 'www.shadowserver.org' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'www.shadowserver.org'. You may need to add 'www.shadowserver.org' to ALLOWED_HOSTS.
+Bad Request: /www.shadowserver.org:443
+[28/Jan/2025 14:11:21] "CONNECT www.shadowserver.org:443 HTTP/1.1" 400 63877
+Not Found: /.env
+[28/Jan/2025 14:21:21] "GET /.env HTTP/1.1" 404 2337
+Not Found: /
+[28/Jan/2025 14:36:47] "GET / HTTP/1.1" 404 2307
+Not Found: /favicon.ico
+[28/Jan/2025 14:36:54] "GET /favicon.ico HTTP/1.1" 404 2358
+Not Found: /
+[28/Jan/2025 15:07:57] "GET / HTTP/1.1" 404 2303
+Not Found: /
+[28/Jan/2025 15:58:18] "GET / HTTP/1.1" 404 2312
+Not Found: /
+[28/Jan/2025 16:10:11] "GET / HTTP/1.1" 404 2312
+[28/Jan/2025 16:10:11,242] - Broken pipe from ('198.235.24.221', 60748)
+Invalid HTTP_HOST header: 'funny-wu.139-59-77-93.plesk.page:8000'. You may need to add 'funny-wu.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'funny-wu.139-59-77-93.plesk.page:8000'. You may need to add 'funny-wu.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Bad Request: /
+[28/Jan/2025 16:23:22] "GET / HTTP/1.1" 400 64453
+Invalid HTTP_HOST header: 'funny-wu.139-59-77-93.plesk.page:8000'. You may need to add 'funny-wu.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'funny-wu.139-59-77-93.plesk.page:8000'. You may need to add 'funny-wu.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Bad Request: /
+[28/Jan/2025 16:23:24] "GET / HTTP/1.1" 400 64069
+Invalid HTTP_HOST header: 'hasura.doormarts.com:8000'. You may need to add 'hasura.doormarts.com' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'hasura.doormarts.com:8000'. You may need to add 'hasura.doormarts.com' to ALLOWED_HOSTS.
+Bad Request: /
+[28/Jan/2025 16:23:58] "GET / HTTP/1.1" 400 64277
+Invalid HTTP_HOST header: 'hasura.doormarts.com:8000'. You may need to add 'hasura.doormarts.com' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'hasura.doormarts.com:8000'. You may need to add 'hasura.doormarts.com' to ALLOWED_HOSTS.
+Bad Request: /
+[28/Jan/2025 16:24:08] "GET / HTTP/1.1" 400 63888
+Invalid HTTP_HOST header: 'loving-kilby.139-59-77-93.plesk.page:8000'. You may need to add 'loving-kilby.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'loving-kilby.139-59-77-93.plesk.page:8000'. You may need to add 'loving-kilby.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Bad Request: /
+[28/Jan/2025 16:26:46] "GET / HTTP/1.1" 400 64516
+Invalid HTTP_HOST header: 'loving-kilby.139-59-77-93.plesk.page:8000'. You may need to add 'loving-kilby.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'loving-kilby.139-59-77-93.plesk.page:8000'. You may need to add 'loving-kilby.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Bad Request: /
+[28/Jan/2025 17:20:43] code 400, message Bad request version ('À\x14À')
+[28/Jan/2025 17:20:43] You're accessing the development server over HTTPS, but it only supports HTTP.
+[28/Jan/2025 17:20:44] code 400, message Bad request version ('À\x14À')
+[28/Jan/2025 17:20:44] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[28/Jan/2025 17:20:44] "GET / HTTP/1.1" 404 2312
+Not Found: /login
+[28/Jan/2025 17:20:45] "GET /login HTTP/1.1" 404 2345
+Not Found: /.git/index
+[28/Jan/2025 17:21:59] "GET /.git/index HTTP/1.1" 404 2355
+Not Found: /
+[28/Jan/2025 17:24:36] "GET / HTTP/1.1" 404 2307
+Invalid HTTP_HOST header: 'awesome-easley.139-59-77-93.plesk.page'. You may need to add 'awesome-easley.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'awesome-easley.139-59-77-93.plesk.page'. You may need to add 'awesome-easley.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Bad Request: /
+[28/Jan/2025 17:25:57] "GET / HTTP/1.1" 400 65081
+Invalid HTTP_HOST header: 'funny-wu.139-59-77-93.plesk.page'. You may need to add 'funny-wu.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'funny-wu.139-59-77-93.plesk.page'. You may need to add 'funny-wu.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Bad Request: /
+[28/Jan/2025 17:27:09] "GET / HTTP/1.1" 400 64989
+Invalid HTTP_HOST header: 'funny-wu.139-59-77-93.plesk.page'. You may need to add 'funny-wu.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'funny-wu.139-59-77-93.plesk.page'. You may need to add 'funny-wu.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Bad Request: /
+[28/Jan/2025 17:27:19] "GET / HTTP/1.1" 400 64600
+Invalid HTTP_HOST header: 'hasura.doormarts.com'. You may need to add 'hasura.doormarts.com' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'hasura.doormarts.com'. You may need to add 'hasura.doormarts.com' to ALLOWED_HOSTS.
+Bad Request: /
+[28/Jan/2025 17:27:57] "GET / HTTP/1.1" 400 64793
+Invalid HTTP_HOST header: 'loving-kilby.139-59-77-93.plesk.page'. You may need to add 'loving-kilby.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'loving-kilby.139-59-77-93.plesk.page'. You may need to add 'loving-kilby.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Bad Request: /
+[28/Jan/2025 17:28:38] "GET / HTTP/1.1" 400 65049
+Invalid HTTP_HOST header: 'loving-kilby.139-59-77-93.plesk.page'. You may need to add 'loving-kilby.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'loving-kilby.139-59-77-93.plesk.page'. You may need to add 'loving-kilby.139-59-77-93.plesk.page' to ALLOWED_HOSTS.
+Bad Request: /
+[28/Jan/2025 17:28:40] "GET / HTTP/1.1" 400 64660
+Invalid HTTP_HOST header: 'rupiyapaisa.io'. You may need to add 'rupiyapaisa.io' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'rupiyapaisa.io'. You may need to add 'rupiyapaisa.io' to ALLOWED_HOSTS.
+Bad Request: /
+[28/Jan/2025 17:29:34] "GET / HTTP/1.1" 400 64697
+Not Found: /456.php
+[28/Jan/2025 17:30:46] "GET /456.php HTTP/1.1" 404 2350
+[28/Jan/2025 17:39:30,301] - Broken pipe from ('206.168.34.52', 43554)
+Not Found: /
+[28/Jan/2025 17:41:44] "GET / HTTP/1.1" 404 2307
+Not Found: /
+[28/Jan/2025 17:49:55] "GET / HTTP/1.1" 404 2311
+Not Found: /.git/config
+[28/Jan/2025 18:17:53] "GET /.git/config HTTP/1.1" 404 2358
+Not Found: /.env
+[28/Jan/2025 18:21:24] "GET /.env HTTP/1.1" 404 2337
+Not Found: /phpinfo.php
+[28/Jan/2025 18:34:03] "GET /phpinfo.php HTTP/1.1" 404 2354
+Not Found: /.aws/credentials
+[28/Jan/2025 18:34:03] "GET /.aws/credentials HTTP/1.1" 404 2369
+Not Found: /.env
+Not Found: /etc/ssl/private/server.key
+[28/Jan/2025 18:34:03] "GET /.env HTTP/1.1" 404 2333
+[28/Jan/2025 18:34:03] "GET /etc/ssl/private/server.key HTTP/1.1" 404 2399
+Not Found: /.vscode/sftp.json
+[28/Jan/2025 18:34:03] "GET /.vscode/sftp.json HTTP/1.1" 404 2372
+Not Found: /config/database.php
+[28/Jan/2025 18:34:03] "GET /config/database.php HTTP/1.1" 404 2378
+Not Found: /_vti_pvt/administrators.pwd
+Not Found: /.env.production
+[28/Jan/2025 18:34:03] "GET /.env.production HTTP/1.1" 404 2366
+[28/Jan/2025 18:34:03] "GET /_vti_pvt/administrators.pwd HTTP/1.1" 404 2402
+Not Found: /docker-compose.yml
+[28/Jan/2025 18:34:03] "GET /docker-compose.yml HTTP/1.1" 404 2375
+Not Found: /backup.zip
+Not Found: /database.sql
+[28/Jan/2025 18:34:03] "GET /backup.zip HTTP/1.1" 404 2351
+Not Found: /backup.sql
+[28/Jan/2025 18:34:03] "GET /backup.sql HTTP/1.1" 404 2351
+[28/Jan/2025 18:34:03] "GET /database.sql HTTP/1.1" 404 2357
+Not Found: /.ssh/id_ed25519
+[28/Jan/2025 18:34:03] "GET /.ssh/id_ed25519 HTTP/1.1" 404 2366
+Not Found: /.git/HEAD
+[28/Jan/2025 18:34:03] "GET /.git/HEAD HTTP/1.1" 404 2348
+Not Found: /api/.env
+[28/Jan/2025 18:34:03] "GET /api/.env HTTP/1.1" 404 2345
+Not Found: /config.php
+[28/Jan/2025 18:34:03] "GET /config.php HTTP/1.1" 404 2351
+Not Found: /
+Not Found: /etc/shadow
+[28/Jan/2025 18:34:03] "GET /etc/shadow HTTP/1.1" 404 2351
+[28/Jan/2025 18:34:03] "GET / HTTP/1.1" 404 2303
+Not Found: /server.key
+[28/Jan/2025 18:34:03] "GET /server.key HTTP/1.1" 404 2351
+Not Found: /.ssh/id_ecdsa
+[28/Jan/2025 18:34:03] "GET /.ssh/id_ecdsa HTTP/1.1" 404 2360
+Not Found: /config/production.json
+[28/Jan/2025 18:34:03] "GET /config/production.json HTTP/1.1" 404 2387
+Not Found: /dump.sql
+[28/Jan/2025 18:34:03] "GET /dump.sql HTTP/1.1" 404 2345
+Not Found: /backup.tar.gz
+[28/Jan/2025 18:34:03] "GET /backup.tar.gz HTTP/1.1" 404 2360
+Not Found: /user_secrets.yml
+[28/Jan/2025 18:34:03] "GET /user_secrets.yml HTTP/1.1" 404 2369
+Not Found: /secrets.json
+[28/Jan/2025 18:34:03] "GET /secrets.json HTTP/1.1" 404 2357
+Not Found: /config.json
+[28/Jan/2025 18:34:03] "GET /config.json HTTP/1.1" 404 2354
+Not Found: /feed
+[28/Jan/2025 18:34:03] "GET /feed HTTP/1.1" 404 2333
+Not Found: /wp-admin/setup-config.php
+Not Found: /wp-config.php
+[28/Jan/2025 18:34:03] "GET /wp-admin/setup-config.php HTTP/1.1" 404 2396
+Not Found: /.ssh/id_rsa
+[28/Jan/2025 18:34:03] "GET /.ssh/id_rsa HTTP/1.1" 404 2354
+[28/Jan/2025 18:34:03] "GET /wp-config.php HTTP/1.1" 404 2360
+Not Found: /config.yaml
+[28/Jan/2025 18:34:03] "GET /config.yaml HTTP/1.1" 404 2354
+Not Found: /.svn/wc.db
+[28/Jan/2025 18:34:03] "GET /.svn/wc.db HTTP/1.1" 404 2351
+Not Found: /config.yml
+[28/Jan/2025 18:34:03] "GET /config.yml HTTP/1.1" 404 2351
+Not Found: /_vti_pvt/service.pwd
+Not Found: /.kube/config
+[28/Jan/2025 18:34:03] "GET /.kube/config HTTP/1.1" 404 2357
+[28/Jan/2025 18:34:03] "GET /_vti_pvt/service.pwd HTTP/1.1" 404 2381
+Not Found: /cloud-config.yml
+[28/Jan/2025 18:34:03] "GET /cloud-config.yml HTTP/1.1" 404 2369
+Not Found: /config.xml
+[28/Jan/2025 18:34:03] "GET /config.xml HTTP/1.1" 404 2351
+Not Found: /_vti_pvt/authors.pwd
+[28/Jan/2025 18:34:03] "GET /_vti_pvt/authors.pwd HTTP/1.1" 404 2381
+Not Found: /web.config
+[28/Jan/2025 18:34:03] "GET /web.config HTTP/1.1" 404 2351
+Not Found: /
+[28/Jan/2025 18:41:43] "GET / HTTP/1.1" 404 2312
+Invalid HTTP_HOST header: 'www.hola9.in'. You may need to add 'www.hola9.in' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'www.hola9.in'. You may need to add 'www.hola9.in' to ALLOWED_HOSTS.
+Bad Request: /.git/config
+[28/Jan/2025 18:53:58] "GET /.git/config HTTP/1.1" 400 64006
+Not Found: /.env
+[28/Jan/2025 19:34:51] "GET /.env HTTP/1.1" 404 2337
+Not Found: /
+[28/Jan/2025 20:55:53] "GET / HTTP/1.1" 404 2307
+Not Found: /.env
+[28/Jan/2025 20:57:12] "GET /.env HTTP/1.1" 404 2337
+Not Found: /
+[28/Jan/2025 21:29:59] "GET / HTTP/1.1" 404 2307
+[28/Jan/2025 21:36:52] code 400, message Bad request version ('\x00\x9eÌ¨Ìª\x003\x00=\x00\x16À')
+[28/Jan/2025 21:36:52] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[28/Jan/2025 21:37:03] "GET / HTTP/1.1" 404 2312
+Not Found: /favicon.ico
+[28/Jan/2025 21:38:23] "GET /favicon.ico HTTP/1.1" 404 2358
+Not Found: /.env
+[28/Jan/2025 21:52:17] "GET /.env HTTP/1.1" 404 2337
+Not Found: /
+[28/Jan/2025 21:52:18] "POST / HTTP/1.1" 404 2308
+Not Found: /
+[28/Jan/2025 22:09:13] "GET / HTTP/1.1" 404 2307
+Not Found: /
+[28/Jan/2025 22:12:18] "GET / HTTP/1.1" 404 2303
+Not Found: /
+[28/Jan/2025 22:12:18] "GET / HTTP/1.1" 404 2303
+Not Found: /
+[28/Jan/2025 22:12:29] "GET / HTTP/1.1" 404 2303
+Not Found: /robots.txt
+[28/Jan/2025 22:38:24] "GET /robots.txt HTTP/1.1" 404 2351
+Not Found: /
+[28/Jan/2025 22:38:24] "GET / HTTP/1.1" 404 2303
+[28/Jan/2025 22:49:42] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[28/Jan/2025 22:49:42] "  /*à     Cookie: mstshash=Administr" 400 -
+Not Found: /
+[28/Jan/2025 22:53:00] "GET / HTTP/1.1" 404 2307
+Not Found: /Public/home/js/check.js
+[28/Jan/2025 22:53:04] "GET /Public/home/js/check.js HTTP/1.1" 404 2394
+[28/Jan/2025 22:53:06] "GET /static/admin/javascript/hetong.js HTTP/1.1" 404 1890
+Not Found: /ab2g
+[28/Jan/2025 22:54:53] "GET /ab2g HTTP/1.1" 404 2337
+Not Found: /ab2h
+[28/Jan/2025 22:54:54] "GET /ab2h HTTP/1.1" 404 2337
+Not Found: /alive.php
+[28/Jan/2025 22:54:54] "GET /alive.php HTTP/1.1" 404 2352
+Not Found: /
+[28/Jan/2025 22:54:58] "GET / HTTP/1.1" 404 2307
+Not Found: /t4
+[28/Jan/2025 22:54:59] "GET /t4 HTTP/1.1" 404 2331
+Not Found: /favicon.ico
+[28/Jan/2025 22:55:00] "GET /favicon.ico HTTP/1.1" 404 2358
+Not Found: /
+[28/Jan/2025 22:55:00] "GET / HTTP/1.1" 404 2307
+Not Found: /teorema505
+[28/Jan/2025 22:55:01] "GET /teorema505?t=1 HTTP/1.1" 404 2359
+Not Found: /
+[28/Jan/2025 23:03:02] "GET / HTTP/1.1" 404 2307
+Not Found: /favicon.ico
+[28/Jan/2025 23:10:20] "GET /favicon.ico HTTP/1.1" 404 2358
+[28/Jan/2025 23:16:29] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[28/Jan/2025 23:16:29] "  /*à     Cookie: mstshash=Administr" 400 -
+Not Found: /
+[28/Jan/2025 23:23:02] "GET / HTTP/1.1" 404 2303
+[28/Jan/2025 23:39:29,458] - Broken pipe from ('167.94.145.99', 56304)
+Not Found: /
+[28/Jan/2025 23:39:32] "GET / HTTP/1.1" 404 2312
+[28/Jan/2025 23:39:33,110] - Broken pipe from ('167.94.145.99', 56374)
+Not Found: /
+[28/Jan/2025 23:39:36] "GET / HTTP/1.1" 404 2312
+[28/Jan/2025 23:39:37] code 505, message Invalid HTTP version (2.0)
+[28/Jan/2025 23:39:37] "PRI * HTTP/2.0" 505 -
+Not Found: /
+[28/Jan/2025 23:49:15] "GET / HTTP/1.1" 404 2312
+[28/Jan/2025 23:49:31] code 400, message Bad request version ('À\x14À')
+[28/Jan/2025 23:49:31] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /api/session/properties
+[28/Jan/2025 23:49:41] "GET /api/session/properties HTTP/1.1" 404 2396
+[28/Jan/2025 23:49:56] "GET /admin/ HTTP/1.1" 302 0
+Not Found: /console
+[28/Jan/2025 23:49:57] "GET /console HTTP/1.1" 404 2351
+Not Found: /owncloud/status.php
+[28/Jan/2025 23:50:11] "GET /owncloud/status.php HTTP/1.1" 404 2387
+Not Found: /status.php
+[28/Jan/2025 23:50:27] "GET /status.php HTTP/1.1" 404 2360
+Not Found: /
+[28/Jan/2025 23:50:43] "GET / HTTP/1.1" 404 2312
+Not Found: /
+[29/Jan/2025 00:03:21] "GET / HTTP/1.1" 404 2307
+Not Found: /
+[29/Jan/2025 00:06:28] "GET / HTTP/1.1" 404 2312
+Not Found: /favicon.ico
+[29/Jan/2025 00:07:04] "GET /favicon.ico HTTP/1.1" 404 2363
+Invalid HTTP_HOST header: 'api.ipify.org'. You may need to add 'api.ipify.org' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'api.ipify.org'. You may need to add 'api.ipify.org' to ALLOWED_HOSTS.
+Bad Request: /http:/api.ipify.org/
+[29/Jan/2025 00:07:26] "GET http://api.ipify.org/?format=json HTTP/1.1" 400 63709
+Invalid HTTP_HOST header: 'www.shadowserver.org'. You may need to add 'www.shadowserver.org' to ALLOWED_HOSTS.
+Traceback (most recent call last):
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/core/handlers/exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/utils/deprecation.py", line 128, in __call__
+    response = self.process_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/middleware/common.py", line 48, in process_request
+    host = request.get_host()
+           ^^^^^^^^^^^^^^^^^^
+  File "/var/www/prathmesh/env/lib/python3.12/site-packages/django/http/request.py", line 151, in get_host
+    raise DisallowedHost(msg)
+django.core.exceptions.DisallowedHost: Invalid HTTP_HOST header: 'www.shadowserver.org'. You may need to add 'www.shadowserver.org' to ALLOWED_HOSTS.
+Bad Request: /www.shadowserver.org:443
+[29/Jan/2025 00:07:49] "CONNECT www.shadowserver.org:443 HTTP/1.1" 400 63888
+Not Found: /
+[29/Jan/2025 00:08:22] "GET / HTTP/1.1" 404 2303
+Not Found: /favicon.ico
+[29/Jan/2025 00:08:28] "GET /favicon.ico HTTP/1.1" 404 2354
+Not Found: /
+[29/Jan/2025 00:14:04] "GET / HTTP/1.1" 404 2311
+Not Found: /.git/config
+[29/Jan/2025 00:16:43] "GET /.git/config HTTP/1.1" 404 2358
+Not Found: /.git/config
+[29/Jan/2025 00:17:29] "GET /.git/config HTTP/1.1" 404 2358
+Not Found: /.env
+[29/Jan/2025 00:40:43] "GET /.env HTTP/1.1" 404 2337
+Not Found: /
+[29/Jan/2025 00:42:59] "GET / HTTP/1.1" 404 2312
+Not Found: /favicon.ico
+[29/Jan/2025 00:52:13] "GET /favicon.ico HTTP/1.1" 404 2363
+Not Found: /.env
+[29/Jan/2025 01:06:49] "GET /.env HTTP/1.1" 404 2337
+Not Found: /
+[29/Jan/2025 01:55:22] "GET / HTTP/1.1" 404 2311
+Not Found: /.git/config
+[29/Jan/2025 02:02:56] "GET /.git/config HTTP/1.1" 404 2358
+Not Found: /dns-query
+[29/Jan/2025 02:32:48] "GET /dns-query?dns=qxUBAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE HTTP/1.1" 404 2396
+Not Found: /dns-query
+[29/Jan/2025 02:32:48] "POST /dns-query HTTP/1.1" 404 2353
+Not Found: /dns-query
+[29/Jan/2025 02:32:48] "GET /dns-query?name=example.com&type=A HTTP/1.1" 404 2380
+Not Found: /dns-query
+[29/Jan/2025 02:32:48] "GET /dns-query?dns=8E8BAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE HTTP/1.1" 404 2396
+Not Found: /dns-query
+[29/Jan/2025 02:32:49] "POST /dns-query HTTP/1.1" 404 2353
+Not Found: /dns-query
+[29/Jan/2025 02:32:49] "GET /dns-query?name=example.com&type=A HTTP/1.1" 404 2380
+Not Found: /query
+[29/Jan/2025 02:32:49] "GET /query?dns=X4UBAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE HTTP/1.1" 404 2384
+Not Found: /query
+[29/Jan/2025 02:32:49] "POST /query HTTP/1.1" 404 2341
+Not Found: /query
+[29/Jan/2025 02:32:49] "GET /query?name=example.com&type=A HTTP/1.1" 404 2368
+Not Found: /query
+[29/Jan/2025 02:32:49] "GET /query?dns=hO8BAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE HTTP/1.1" 404 2384
+Not Found: /query
+[29/Jan/2025 02:32:49] "POST /query HTTP/1.1" 404 2341
+Not Found: /query
+[29/Jan/2025 02:32:49] "GET /query?name=example.com&type=A HTTP/1.1" 404 2368
+Not Found: /resolve
+[29/Jan/2025 02:32:49] "GET /resolve?dns=tFYBAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE HTTP/1.1" 404 2390
+Not Found: /resolve
+[29/Jan/2025 02:32:49] "POST /resolve HTTP/1.1" 404 2347
+Not Found: /resolve
+[29/Jan/2025 02:32:49] "GET /resolve?name=example.com&type=A HTTP/1.1" 404 2374
+Not Found: /resolve
+[29/Jan/2025 02:32:49] "GET /resolve?dns=028BAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE HTTP/1.1" 404 2390
+Not Found: /resolve
+[29/Jan/2025 02:32:49] "POST /resolve HTTP/1.1" 404 2347
+Not Found: /resolve
+[29/Jan/2025 02:32:50] "GET /resolve?name=example.com&type=A HTTP/1.1" 404 2374
+Not Found: /
+[29/Jan/2025 02:32:50] "GET /?dns=rugBAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE HTTP/1.1" 404 2351
+Not Found: /
+[29/Jan/2025 02:32:50] "POST / HTTP/1.1" 404 2308
+Not Found: /
+[29/Jan/2025 02:32:50] "GET /?name=example.com&type=A HTTP/1.1" 404 2335
+Not Found: /
+[29/Jan/2025 02:32:50] "GET /?dns=LOoBAAABAAAAAAAAB2V4YW1wbGUDY29tAAABAAE HTTP/1.1" 404 2351
+Not Found: /
+[29/Jan/2025 02:32:50] "POST / HTTP/1.1" 404 2308
+Not Found: /
+[29/Jan/2025 02:32:50] "GET /?name=example.com&type=A HTTP/1.1" 404 2335
+Not Found: /
+[29/Jan/2025 02:41:50] "GET / HTTP/1.1" 404 2312
+[29/Jan/2025 02:42:17,248] - Broken pipe from ('147.185.132.114', 57418)
+Not Found: /.env
+[29/Jan/2025 02:50:38] "GET /.env HTTP/1.1" 404 2337
+Not Found: /
+[29/Jan/2025 03:13:07] "GET / HTTP/1.1" 404 2307
+Not Found: /.git/HEAD
+[29/Jan/2025 03:22:27] "GET /.git/HEAD HTTP/1.1" 404 2352
+Not Found: /php_info.php
+[29/Jan/2025 03:53:36] "GET /php_info.php HTTP/1.1" 404 2357
+Not Found: /api/.env
+[29/Jan/2025 03:53:36] "GET /api/.env HTTP/1.1" 404 2345
+Not Found: /blog/.env
+[29/Jan/2025 03:53:36] "GET /blog/.env HTTP/1.1" 404 2348
+Not Found: /.env.production
+[29/Jan/2025 03:53:36] "GET /.env.production HTTP/1.1" 404 2366
+Not Found: /protected/.env
+[29/Jan/2025 03:53:36] "GET /protected/.env HTTP/1.1" 404 2363
+Not Found: /config/.env
+[29/Jan/2025 03:53:37] "GET /config/.env HTTP/1.1" 404 2354
+Not Found: /base/.env
+[29/Jan/2025 03:53:37] "GET /base/.env HTTP/1.1" 404 2348
+Not Found: /.env.development
+[29/Jan/2025 03:53:37] "GET /.env.development HTTP/1.1" 404 2369
+Not Found: /v2/.env
+[29/Jan/2025 03:53:37] "GET /v2/.env HTTP/1.1" 404 2342
+Not Found: /database/.env
+[29/Jan/2025 03:53:37] "GET /database/.env HTTP/1.1" 404 2360
+Not Found: /config.yaml.bak
+[29/Jan/2025 03:53:37] "GET /config.yaml.bak HTTP/1.1" 404 2366
+Not Found: /.env.bak
+[29/Jan/2025 03:53:38] "GET /.env.bak HTTP/1.1" 404 2345
+Not Found: /package.json
+[29/Jan/2025 03:53:38] "GET /package.json HTTP/1.1" 404 2357
+Not Found: /conf/.env
+[29/Jan/2025 03:53:38] "GET /conf/.env HTTP/1.1" 404 2348
+Not Found: /application-dev.properties
+[29/Jan/2025 03:53:38] "GET /application-dev.properties HTTP/1.1" 404 2399
+Not Found: /.AWS_/credentials
+[29/Jan/2025 03:53:38] "GET /.AWS_/credentials HTTP/1.1" 404 2372
+Not Found: /karma.conf.json
+[29/Jan/2025 03:53:38] "GET /karma.conf.json HTTP/1.1" 404 2366
+Not Found: /wp-config.php.save
+[29/Jan/2025 03:53:39] "GET /wp-config.php.save HTTP/1.1" 404 2375
+Not Found: /app/config/.env
+[29/Jan/2025 03:53:39] "GET /app/config/.env HTTP/1.1" 404 2998
+Not Found: /backend/.env
+[29/Jan/2025 03:53:39] "GET /backend/.env HTTP/1.1" 404 2357
+Not Found: /config/php.ini
+[29/Jan/2025 03:53:39] "GET /config/php.ini HTTP/1.1" 404 2363
+Not Found: /.env.save
+[29/Jan/2025 03:53:39] "GET /.env.save HTTP/1.1" 404 2348
+Not Found: /db_config.php
+[29/Jan/2025 03:53:40] "GET /db_config.php HTTP/1.1" 404 2360
+Not Found: /crm/.env
+[29/Jan/2025 03:53:40] "GET /crm/.env HTTP/1.1" 404 2345
+Not Found: /laravel/.env
+[29/Jan/2025 03:53:40] "GET /laravel/.env HTTP/1.1" 404 2357
+Not Found: /system/.env
+[29/Jan/2025 03:53:40] "GET /system/.env HTTP/1.1" 404 2354
+Not Found: /.htaccess
+[29/Jan/2025 03:53:40] "GET /.htaccess HTTP/1.1" 404 2348
+Not Found: /api/config/.env
+[29/Jan/2025 03:53:40] "GET /api/config/.env HTTP/1.1" 404 2366
+Not Found: /app/.env
+[29/Jan/2025 03:53:41] "GET /app/.env HTTP/1.1" 404 2977
+[29/Jan/2025 03:53:41] "GET /admin/.env HTTP/1.1" 302 0
+Not Found: /_profiler/phpinfo
+[29/Jan/2025 03:53:46] "GET /_profiler/phpinfo HTTP/1.1" 404 2372
+Not Found: /server/.env
+[29/Jan/2025 03:53:46] "GET /server/.env HTTP/1.1" 404 2354
+Not Found: /old/.env
+[29/Jan/2025 03:53:47] "GET /old/.env HTTP/1.1" 404 2345
+Not Found: /.env.json
+[29/Jan/2025 03:53:47] "GET /.env.json HTTP/1.1" 404 2348
+Not Found: /api/env
+[29/Jan/2025 03:53:47] "GET /api/env HTTP/1.1" 404 2342
+Not Found: /resources/.env
+[29/Jan/2025 03:53:47] "GET /resources/.env HTTP/1.1" 404 2363
+Not Found: /info.php
+[29/Jan/2025 03:53:47] "GET /info.php HTTP/1.1" 404 2345
+Not Found: /wp-config.php
+[29/Jan/2025 03:53:47] "GET /wp-config.php HTTP/1.1" 404 2360
+Not Found: /dev.php
+[29/Jan/2025 03:53:48] "GET /dev.php HTTP/1.1" 404 2342
+Not Found: /wp-content/.env
+[29/Jan/2025 03:53:48] "GET /wp-content/.env HTTP/1.1" 404 2366
+Not Found: /phpinfo.php
+[29/Jan/2025 03:53:48] "GET /phpinfo.php HTTP/1.1" 404 2354
+Not Found: /.json
+[29/Jan/2025 03:53:48] "GET /.json HTTP/1.1" 404 2336
+Not Found: /.env.backup
+[29/Jan/2025 03:53:48] "GET /.env.backup HTTP/1.1" 404 2354
+Not Found: /
+[29/Jan/2025 03:53:48] "GET / HTTP/1.1" 404 2303
+Not Found: /php.ini
+[29/Jan/2025 03:53:49] "GET /php.ini HTTP/1.1" 404 2342
+Not Found: /web/app_dev.php
+[29/Jan/2025 03:53:49] "GET /web/app_dev.php HTTP/1.1" 404 2366
+Not Found: /.env
+[29/Jan/2025 03:53:49] "GET /.env HTTP/1.1" 404 2333
+Not Found: /test
+[29/Jan/2025 03:53:49] "GET /test HTTP/1.1" 404 2333
+Not Found: /library/.env
+[29/Jan/2025 03:53:49] "GET /library/.env HTTP/1.1" 404 2357
+Not Found: /settings.php
+[29/Jan/2025 03:53:49] "GET /settings.php HTTP/1.1" 404 2357
+Not Found: /config/env.php
+[29/Jan/2025 03:53:50] "GET /config/env.php HTTP/1.1" 404 2363
+Not Found: /db.php
+[29/Jan/2025 03:53:50] "GET /db.php HTTP/1.1" 404 2339
+Not Found: /config.php.save
+[29/Jan/2025 03:53:50] "GET /config.php.save HTTP/1.1" 404 2366
+Not Found: /v1/.env
+[29/Jan/2025 03:53:50] "GET /v1/.env HTTP/1.1" 404 2342
+Not Found: /wp-admin/.env
+[29/Jan/2025 03:53:50] "GET /wp-admin/.env HTTP/1.1" 404 2360
+Not Found: /.env.testing
+[29/Jan/2025 03:53:50] "GET /.env.testing HTTP/1.1" 404 2357
+Not Found: /info
+[29/Jan/2025 03:53:51] "GET /info HTTP/1.1" 404 2333
+Not Found: /.env.old
+[29/Jan/2025 03:53:51] "GET /.env.old HTTP/1.1" 404 2345
+Not Found: /public/.env
+[29/Jan/2025 03:53:51] "GET /public/.env HTTP/1.1" 404 2354
+Not Found: /app_dev.php
+[29/Jan/2025 03:53:51] "GET /app_dev.php HTTP/1.1" 404 2354
+Not Found: /.aws/credentials
+[29/Jan/2025 03:53:51] "GET /.aws/credentials HTTP/1.1" 404 2369
+Not Found: /.env.local
+[29/Jan/2025 03:53:51] "GET /.env.local HTTP/1.1" 404 2351
+[29/Jan/2025 03:53:52] "GET /admin/config HTTP/1.1" 302 0
+Not Found: /core/.env
+[29/Jan/2025 03:53:57] "GET /core/.env HTTP/1.1" 404 2348
+Not Found: /storage/.env
+[29/Jan/2025 03:53:57] "GET /storage/.env HTTP/1.1" 404 2357
+Not Found: /phpinfo
+[29/Jan/2025 03:53:57] "GET /phpinfo HTTP/1.1" 404 2342
+Not Found: /config.properties
+[29/Jan/2025 03:53:57] "GET /config.properties HTTP/1.1" 404 2372
+Not Found: /config/settings.env
+[29/Jan/2025 03:53:58] "GET /config/settings.env HTTP/1.1" 404 2378
+Not Found: /index.html
+[29/Jan/2025 03:53:58] "GET /index.html HTTP/1.1" 404 2351
+Not Found: /settings/.env
+[29/Jan/2025 03:53:58] "GET /settings/.env HTTP/1.1" 404 2360
+Not Found: /php_errors.log
+[29/Jan/2025 03:53:58] "GET /php_errors.log HTTP/1.1" 404 2363
+Not Found: /db.php.bak
+[29/Jan/2025 03:53:58] "GET /db.php.bak HTTP/1.1" 404 2351
+Not Found: /database.php
+[29/Jan/2025 03:53:58] "GET /database.php HTTP/1.1" 404 2357
+Not Found: /src/.env
+[29/Jan/2025 03:53:59] "GET /src/.env HTTP/1.1" 404 2345
+Not Found: /adminer.php
+[29/Jan/2025 03:53:59] "GET /adminer.php HTTP/1.1" 404 2354
+Not Found: /new/.env
+[29/Jan/2025 03:53:59] "GET /new/.env HTTP/1.1" 404 2345
+Not Found: /wp-includes/ID3/license.txt
+[29/Jan/2025 03:57:23] "GET /wp-includes/ID3/license.txt HTTP/1.1" 404 2402
+Not Found: /feed/
+[29/Jan/2025 03:57:23] "GET /feed/ HTTP/1.1" 404 2336
+Not Found: /xmlrpc.php
+[29/Jan/2025 03:57:24] "GET /xmlrpc.php?rsd HTTP/1.1" 404 2355
+Not Found: /blog/wp-includes/wlwmanifest.xml
+[29/Jan/2025 03:57:24] "GET /blog/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2417
+Not Found: /web/wp-includes/wlwmanifest.xml
+[29/Jan/2025 03:57:24] "GET /web/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2414
+Not Found: /wordpress/wp-includes/wlwmanifest.xml
+[29/Jan/2025 03:57:24] "GET /wordpress/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2432
+Not Found: /wp/wp-includes/wlwmanifest.xml
+[29/Jan/2025 03:57:25] "GET /wp/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2411
+Not Found: /2020/wp-includes/wlwmanifest.xml
+[29/Jan/2025 03:57:25] "GET /2020/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2417
+Not Found: /2019/wp-includes/wlwmanifest.xml
+[29/Jan/2025 03:57:25] "GET /2019/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2417
+Not Found: /2021/wp-includes/wlwmanifest.xml
+[29/Jan/2025 03:57:25] "GET /2021/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2417
+Not Found: /shop/wp-includes/wlwmanifest.xml
+[29/Jan/2025 03:57:26] "GET /shop/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2417
+Not Found: /wp1/wp-includes/wlwmanifest.xml
+[29/Jan/2025 03:57:26] "GET /wp1/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2414
+Not Found: /test/wp-includes/wlwmanifest.xml
+[29/Jan/2025 03:57:26] "GET /test/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2417
+Not Found: /site/wp-includes/wlwmanifest.xml
+[29/Jan/2025 03:57:26] "GET /site/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2417
+Not Found: /cms/wp-includes/wlwmanifest.xml
+[29/Jan/2025 03:57:27] "GET /cms/wp-includes/wlwmanifest.xml HTTP/1.1" 404 2414
+Not Found: /.env
+[29/Jan/2025 04:15:48] "GET /.env HTTP/1.1" 404 2333
+Not Found: /.env
+[29/Jan/2025 04:15:53] "GET /.env HTTP/1.1" 404 2333
+Not Found: /
+[29/Jan/2025 04:15:54] "POST / HTTP/1.1" 404 2304
+Not Found: /sendgrid/.env
+[29/Jan/2025 04:15:55] "GET /sendgrid/.env HTTP/1.1" 404 2360
+Not Found: /
+[29/Jan/2025 04:15:55] "POST / HTTP/1.1" 404 2304
+Not Found: /
+[29/Jan/2025 04:34:18] "HEAD / HTTP/1.1" 404 0
+[29/Jan/2025 04:34:45] code 400, message Bad request version ('À\x13À')
+[29/Jan/2025 04:34:45] You're accessing the development server over HTTPS, but it only supports HTTP.
+[29/Jan/2025 04:34:45] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00')
+[29/Jan/2025 04:34:45] You're accessing the development server over HTTPS, but it only supports HTTP.
+Not Found: /
+[29/Jan/2025 04:34:46] "HEAD / HTTP/1.1" 404 0
+[29/Jan/2025 05:00:48] "GET /admin/ HTTP/1.1" 302 0
+[29/Jan/2025 05:00:48] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4160
+[29/Jan/2025 05:00:48] "GET /static/admin/css/base.css HTTP/1.1" 200 22092
+[29/Jan/2025 05:00:48] "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2804
+[29/Jan/2025 05:00:48] "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+[29/Jan/2025 05:00:49] "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+[29/Jan/2025 05:00:49] "GET /static/admin/css/responsive.css HTTP/1.1" 200 17972
+[29/Jan/2025 05:00:49] "GET /static/admin/css/login.css HTTP/1.1" 200 951
+[29/Jan/2025 05:00:49] "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+Not Found: /favicon.ico
+[29/Jan/2025 05:00:50] "GET /favicon.ico HTTP/1.1" 404 2354
+[29/Jan/2025 05:01:55] "GET /admin/ HTTP/1.1" 302 0
+[29/Jan/2025 05:01:55] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4160
+Not Found: /
+[29/Jan/2025 05:02:07] "GET / HTTP/1.1" 404 2303
+Not Found: /app/
+[29/Jan/2025 05:02:26] "GET /app/ HTTP/1.1" 404 2965
+Not Found: /
+[29/Jan/2025 05:03:01] "GET / HTTP/1.1" 404 2311
+Not Found: /
+[29/Jan/2025 05:03:01] "GET / HTTP/1.1" 404 2311
+Not Found: /favicon.ico
+[29/Jan/2025 05:03:02] "GET /favicon.ico HTTP/1.1" 404 2362
+Not Found: /.git/config
+[29/Jan/2025 05:20:53] "GET /.git/config HTTP/1.1" 404 2358
+Not Found: /
+[29/Jan/2025 05:23:27] "GET / HTTP/1.1" 404 2307
+Not Found: /
+[29/Jan/2025 05:33:49] "GET / HTTP/1.0" 404 2312
+Not Found: /
+[29/Jan/2025 05:43:56] "GET / HTTP/1.1" 404 2303
+Not Found: /favicon.ico
+[29/Jan/2025 05:43:57] "GET /favicon.ico HTTP/1.1" 404 2354
+Not Found: /.env
+[29/Jan/2025 05:51:28] "GET /.env HTTP/1.1" 404 2337
+Not Found: /
+[29/Jan/2025 06:33:15] "GET / HTTP/1.1" 404 2303
+Not Found: /favicon.ico
+[29/Jan/2025 06:33:16] "GET /favicon.ico HTTP/1.1" 404 2354
+Not Found: /.git/config
+[29/Jan/2025 06:53:54] "GET /.git/config HTTP/1.1" 404 2358
+Not Found: /
+[29/Jan/2025 07:18:10] "GET / HTTP/1.1" 404 2307
+Not Found: /
+[29/Jan/2025 07:18:17] "GET / HTTP/1.1" 404 2307
+Not Found: /OA_HTML/AppsLocalLogin.jsp
+[29/Jan/2025 07:18:19] "GET /OA_HTML/AppsLocalLogin.jsp HTTP/1.1" 404 2403
+Not Found: /WebInterface/
+[29/Jan/2025 07:18:32] "GET /WebInterface/ HTTP/1.1" 404 2364
+Not Found: /internal_forms_authentication
+[29/Jan/2025 07:18:50] "GET /internal_forms_authentication HTTP/1.1" 404 2412
+Not Found: /owa/
+[29/Jan/2025 07:19:12] "GET /owa/ HTTP/1.1" 404 2337
+Not Found: /index.jsp
+[29/Jan/2025 07:19:13] "GET /index.jsp HTTP/1.1" 404 2352
+Not Found: /sugar_version.json
+[29/Jan/2025 07:19:39] "GET /sugar_version.json HTTP/1.1" 404 2379
+Not Found: /favicon-32x32.png
+[29/Jan/2025 07:20:04] "GET /favicon-32x32.png HTTP/1.1" 404 2376
+Not Found: /
+[29/Jan/2025 07:20:05] "GET / HTTP/1.1" 404 2307
+Not Found: /
+[29/Jan/2025 07:20:06] "GET / HTTP/1.1" 404 2307
+Not Found: /aspera/faspex/
+[29/Jan/2025 07:20:07] "GET /aspera/faspex/ HTTP/1.1" 404 2367
+Not Found: /identity
+[29/Jan/2025 07:20:09] "GET /identity HTTP/1.1" 404 2349
+Not Found: /solr/
+[29/Jan/2025 07:20:35] "GET /solr/ HTTP/1.1" 404 2340
+Not Found: /cgi-bin/authLogin.cgi
+[29/Jan/2025 07:21:02] "GET /cgi-bin/authLogin.cgi HTTP/1.1" 404 2388
+Not Found: /console
+[29/Jan/2025 07:21:33] "GET /console HTTP/1.1" 404 2346
+Not Found: /showLogin.cc
+[29/Jan/2025 07:22:05] "GET /showLogin.cc HTTP/1.1" 404 2361
+Not Found: /login.do
+[29/Jan/2025 07:22:41] "GET /login.do HTTP/1.1" 404 2349
+Not Found: /cf_scripts/scripts/ajax/ckeditor/ckeditor.js
+[29/Jan/2025 07:23:15] "GET /cf_scripts/scripts/ajax/ckeditor/ckeditor.js HTTP/1.1" 404 2457
+[29/Jan/2025 07:23:16] "GET /admin/ HTTP/1.1" 302 0
+Not Found: /partymgr/control/main
+[29/Jan/2025 07:23:17] "GET /partymgr/control/main HTTP/1.1" 404 2388
+Not Found: /
+[29/Jan/2025 07:23:53] "GET / HTTP/1.1" 404 2307
+Not Found: /api/session/properties
+[29/Jan/2025 07:23:54] "GET /api/session/properties HTTP/1.1" 404 2391
+Not Found: /favicon.ico
+[29/Jan/2025 07:24:29] "GET /favicon.ico HTTP/1.1" 404 2358
+Not Found: /sitecore/shell/sitecore.version.xml
+[29/Jan/2025 07:24:30] "GET /sitecore/shell/sitecore.version.xml HTTP/1.1" 404 2430
+Not Found: /js/NewWindow_2_all.js
+[29/Jan/2025 07:24:56] "GET /js/NewWindow_2_all.js HTTP/1.1" 404 2388
+Not Found: /owncloud/status.php
+[29/Jan/2025 07:24:57] "GET /owncloud/status.php HTTP/1.1" 404 2382
+Not Found: /status.php
+[29/Jan/2025 07:25:27] "GET /status.php HTTP/1.1" 404 2355
+Not Found: /cgi-bin/config.exp
+[29/Jan/2025 07:25:52] "GET /cgi-bin/config.exp HTTP/1.1" 404 2379
+Not Found: /_profiler/phpinfo
+[29/Jan/2025 07:26:03] "GET /_profiler/phpinfo HTTP/1.1" 404 2376
+Not Found: /zabbix/favicon.ico
+[29/Jan/2025 07:26:20] "GET /zabbix/favicon.ico HTTP/1.1" 404 2379
+Not Found: /favicon.ico
+[29/Jan/2025 07:26:49] "GET /favicon.ico HTTP/1.1" 404 2358
+Not Found: /Telerik.Web.UI.WebResource.axd
+[29/Jan/2025 07:27:18] "GET /Telerik.Web.UI.WebResource.axd?type=rau HTTP/1.1" 404 2424
